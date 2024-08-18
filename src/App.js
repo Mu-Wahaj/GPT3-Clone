@@ -1,5 +1,5 @@
 import "./App.css";
-import { Article, Cta, Brand, Navbar, Feature } from "./Components";
+import {  Cta, Brand, Navbar } from "./Components";
 import "./App.css";
 
 import {
@@ -19,7 +19,7 @@ function App() {
       </div>
       <Brand />
       <WhatGPT3 />
-      <Feature />
+      <Features />
       <Possibilitiy />
       <Cta />
       <Blog />
