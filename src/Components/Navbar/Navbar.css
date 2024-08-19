@@ -95,6 +95,13 @@
     margin: 1rem 0;
 }
 
+.gpt3__navbar-menu_container-links p a:hover {
+    text-decoration: underline;
+    transform: scale(0.02);
+    transition: 0.3s;
+    color: #FF4820;
+}
+
 .gpt3__navbar-menu_container-links-sign {
     display: none;
 }
